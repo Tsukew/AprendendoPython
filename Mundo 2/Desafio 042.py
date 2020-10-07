@@ -1,4 +1,4 @@
-print('Condição de existência de um triângulo')
+print('Condição de existência de um triângulo.')
 a=float(input('Primeiro segmento: '))
 b=float(input('Segundo segmento: '))
 c=float(input('Terceiro segmento: '))
