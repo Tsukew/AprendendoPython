@@ -16,6 +16,6 @@ media = idade / 4
 print('A média de idade do grupo é {} anos.'.format(media))
 print('O homem mais velho da lista tem {} anos e chama-se {}.'.format(homens, homem))
 if mulher == 1:
-    print('Ao todo, temos {} mulher com menos de 20 anos.'.format(mulher))
+    print('Ao todo, temos {} mulher com menos de 20 anos,'.format(mulher))
 else:
     print('Ao todo, temos {} mulheres com menos de 20 anos.'.format(mulher))
