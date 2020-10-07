@@ -1,4 +1,4 @@
-print('PA')
+print('Progressão aritmética.')
 r = float(input('Razão: '))
 a1 = float(input('Primeiro termo: '))
 p = 0
